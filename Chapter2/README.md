@@ -1,6 +1,6 @@
-16.	The speed search is available in all the tree views: just start typing and you'll quickly locate the necessary item. 
+16. The speed search is available in all the tree views: just start typing and you'll quickly locate the necessary item. 
  
-![16.png](../pic/16.png)
+ ![16.png](../pic/16.png)
  
 17.	The Esc key in any tool window moves the focus to the editor. 
 Shift+Esc moves the focus to the editor and also hides the current (or last active) tool window. 
