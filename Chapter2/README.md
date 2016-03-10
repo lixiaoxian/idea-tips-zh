@@ -16,7 +16,7 @@ Use other items in the list to surround with other constructs.
  
  ![19-1.png](../pic/19-1.png)
  
-and press Ctrl+Shift+空格: 
+ and press Ctrl+Shift+空格: 
 
  ![19-2.png](../pic/19-2.png)
 
