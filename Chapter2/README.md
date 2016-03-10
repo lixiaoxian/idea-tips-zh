@@ -1,4 +1,4 @@
-16. The speed search is available in all the tree views: just start typing and you'll quickly locate the necessary item. 
+16 The speed search is available in all the tree views: just start typing and you'll quickly locate the necessary item. 
  
  ![16.png](../pic/16.png)
  
