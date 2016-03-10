@@ -10,15 +10,15 @@ The F12 key moves the focus from the editor to the last focused tool window.
 You can customize the bodies of the generated catch blocks on the Code tab of File | Settings | File and Code Templates. 
 Use other items in the list to surround with other constructs. 
  
-![18.png](../pic/18.png)
+ ![18.png](../pic/18.png)
  
 19.	The SmartType code completion may be used after the new keyword, to instantiate an object of the expected type. For example, type 
  
-![19-1.png](../pic/19-1.png)
+ ![19-1.png](../pic/19-1.png)
  
 and press Ctrl+Shift+空格: 
 
-![19-2.png](../pic/19-2.png)
+ ![19-2.png](../pic/19-2.png)
 
 20.	To navigate to the implementation(s) of an abstract method, position the caret at its usage or its name in the declaration and press Ctrl+Alt+B. 
 
@@ -26,11 +26,11 @@ and press Ctrl+Shift+空格:
 
 22.	The Extract Variable refactoring helps you simplify complicated statements in your code. For example, in the code fragment below, you can select an expression in the code: 
  
-![22-1.png](../pic/22-1.png)
+ ![22-1.png](../pic/22-1.png)
  
 and press Ctrl+Alt+V (Refactor | Extract | Variable...). This will result in the following: 
 
-![22-2.png](../pic/22-2.png)
+ ![22-2.png](../pic/22-2.png)
  
 23.	You can comment or uncomment lines and blocks of code using Ctrl+斜杠 and Ctrl+Shift+斜杠. 
 Ctrl+斜杠 comments or uncomments the current line or selected block with single line comments (//...). 
@@ -49,11 +49,11 @@ and press Ctrl+Shift+空格 to see what happens.
 27.	Try Live Templates
 Live Templates allow you to generate many typical code constructs in seconds! For example, type
 
-![27-1.png](../pic/27-1.png)
+ ![27-1.png](../pic/27-1.png)
  
 in a method and press the Tab key to see what happens.
 
-![27-2.png](../pic/27-2.png)
+ ![27-2.png](../pic/27-2.png)
  
 Use the Tab key to move between the template fields. See File | Settings | Live Templates for more details.
 
@@ -61,13 +61,13 @@ Use the Tab key to move between the template fields. See File | Settings | Live 
 private FileOutputStream
 and press Ctrl+空格. 
 
-![28.png](../pic/28.png)
+ ![28.png](../pic/28.png)
  
 You can customize name prefixes for local variables, parameters, instance and static fields in File | Settings | Code Style. 
 
 29.	If the cursor is between the parentheses of a method call, pressing Ctrl+P brings up a list of valid parameters. 
 
-![29.png](../pic/29.png)
+ ![29.png](../pic/29.png)
  
 30.	Alt+向左箭头 (Navigate | Last Edit Location) brings you back to the last place where you made changes in the code. 
 Pressing Alt+向左箭头 a few times moves you deeper into your changes history. 
